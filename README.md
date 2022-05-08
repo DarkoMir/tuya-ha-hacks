@@ -1,5 +1,5 @@
 # tuya-ha-hacks
-Just a clone af the 3v1n0 tuya-hassio hacks, give him credits
+Just a clone af the 3v1n0 tuya-hassio hacks, give him credits  
 https://github.com/3v1n0/tuya-ha-hacks
 
 
